@@ -1,0 +1,5 @@
+google-cloud-pipeline-components>=2.0.0
+kfp>=2.0.0
+google-cloud-aiplatform>=1.38.0
+google-auth>=2.0.0
+PyYAML>=6.0
