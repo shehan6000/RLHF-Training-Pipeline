@@ -1,16 +1,4 @@
 # RLHF Training Pipeline 
-## Table of Contents
-
-1. [Overview](#overview)
-2. [System Architecture](#system-architecture)
-3. [Installation & Setup](#installation--setup)
-4. [Configuration](#configuration)
-5. [Usage Guide](#usage-guide)
-6. [Pipeline Components](#pipeline-components)
-7. [Monitoring & Logging](#monitoring--logging)
-8. [Troubleshooting](#troubleshooting)
-9. [Best Practices](#best-practices)
-10. [API Reference](#api-reference)
 
 ## Overview
 
